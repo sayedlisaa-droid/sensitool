@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/sayedlisaa-droid/sensitool/releases/download/v1.0.1/SensiTool.exe",
-  "sha256": "234fd2a471b2ba74583fe4683f0dfe81bc0d8f06c9b70d41f117c514576edba8",
-  "notes": "Added one-click Game Optimizer for Valorant, Counter-Strike, Free Fire"
+  "version": "1.0.2",
+  "url": "https://github.com/sayedlisaa-droid/sensitool/releases/download/v1.0.2/SensiTool.exe",
+  "sha256": "7921d23f8f059f4cc2e3c13651e622287f41de8ba19ed5045e5bfc496ab42d7e",
+  "notes": "New design and mouse fix"
 }
